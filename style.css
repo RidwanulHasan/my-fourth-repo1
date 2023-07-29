@@ -1,0 +1,11 @@
+.header-line{
+    color: red;
+    
+    text-align: center;
+}
+
+.blogging{
+    background-color: aqua;
+    text-align: center;
+    margin: 50px;
+}
